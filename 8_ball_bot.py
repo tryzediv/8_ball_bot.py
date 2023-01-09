@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 from time import sleep
 
-bot = telebot.TeleBot('5953244177:AAGcVjiPvF_-VeRm5E58HXTqu36-sPWk0Qo')
+bot = telebot.TeleBot('TOKEN')
 # Ответы для шара восьмерки
 answers = ['Бесспорно', 'Предрешено', 'Никаких сомнений', 'Определённо да',
            'Можешь быть уверен в этом', 'Мне кажется — «да»', 'Вероятнее всего',
